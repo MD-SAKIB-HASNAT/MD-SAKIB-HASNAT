@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-<img src="Codeforces.png" >
+<img src="" >
 
