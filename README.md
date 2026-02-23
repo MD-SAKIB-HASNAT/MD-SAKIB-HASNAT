@@ -1,3 +1,4 @@
+<img src='banner.png'></img>
 <!-- Animated Header -->
 <h1 align="center">Hi 👋, I'm Md. Sakib Hasnat</h1>
 
