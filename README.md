@@ -1,75 +1,97 @@
-<img src='codeforces.png'></img>
+<!-- Animated Header -->
 <h1 align="center">Hi 👋, I'm Md. Sakib Hasnat</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh 🇧🇩</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MD-SAKIB-HASNAT&label=Profile%20views&color=0e75b6&style=flat" alt="MD-SAKIB-HASNAT" />
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Focused+Engineer;Competitive+Programmer;Problem+Solver+🚀" 
+      alt="Typing Animation" 
+    />
+  </a>
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MD-SAKIB-HASNAT&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-# 💫 About Me:
+---
 
-🔭 I’m passionate about Full Stack Web Development and Problem Solving  
-🌱 Currently improving my skills in Backend Architecture & System Design  
+## 🚀 About Me
+
+✨ Passionate about building scalable full-stack applications  
 💻 Strong foundation in Data Structures & Algorithms  
-🎯 Love building scalable, secure and real-world applications  
-🏆 Competitive Programmer & Contest Participant  
-⚡ Fun fact: I spend more time optimizing code than writing it 😄  
+🔥 Backend-focused developer who loves clean architecture  
+🏆 Competitive Programming enthusiast  
+🎯 Always learning new technologies  
 
-🎓 B.Sc in CSE (CGPA: 3.88/4.00)  
-🏫 International University of Business Agriculture and Technology (IUBAT)
-
----
-
-## 🌐 Connect With Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakib-hasnat)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/MD-SAKIB-HASNAT)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakib.cse.2022@gmail.com)
+🎓 B.Sc in Computer Science & Engineering (CGPA: 3.88/4.00)  
+📍 Dhaka, Bangladesh  
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
-### 🧠 Programming Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%239B4F96.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+## 🧠 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,php,dart" />
+</p>
 
----
+## 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
+</p>
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+## ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
 
----
+## 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase" />
+</p>
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-
----
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+## 📱 Mobile
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
+</p>
 
 ---
 
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-Java-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+# 📊 GitHub Analytics
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MD-SAKIB-HASNAT&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-SAKIB-HASNAT&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
+---
 
-### ✍️ Developer Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MD-SAKIB-HASNAT&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sakib-hasnat">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sakib.cse.2022@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MD-SAKIB-HASNAT">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ✨ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
