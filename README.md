@@ -1,3 +1,4 @@
+<img src='codeforces.png'></img>
 <h1 align="center">Hi 👋, I'm Md. Sakib Hasnat</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh 🇧🇩</h3>
 
@@ -68,15 +69,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-Java-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 
----
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=MD-SAKIB-HASNAT&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-SAKIB-HASNAT&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
 
 ### ✍️ Developer Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
