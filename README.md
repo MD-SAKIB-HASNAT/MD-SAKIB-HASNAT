@@ -2,13 +2,9 @@
 <h1 align="center">Hi 👋, I'm Md. Sakib Hasnat</h1>
 
 <h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Focused+Engineer;Competitive+Programmer;Problem+Solver+🚀" 
-      alt="Typing Animation" 
-    />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Focused+Engineer;Competitive+Programmer;Problem+Solver+🚀" />
 </h3>
+  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MD-SAKIB-HASNAT&label=Profile%20Views&color=0e75b6&style=flat" />
